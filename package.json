@@ -6,7 +6,9 @@
     "build": "vite build"
   },
   "dependencies": {
+    "axios": "^0.20.0",
     "chart.js": "^2.9.3",
+    "luxon": "^1.25.0",
     "tailwindcss": "^1.8.10",
     "vue": "^3.0.0-rc.1"
   },
